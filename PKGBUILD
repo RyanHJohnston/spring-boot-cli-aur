@@ -1,4 +1,5 @@
-# Maintainer: Miroslav Koškár <http://mkoskar.com/>
+# Maintainer: Ryan H. Johnston <ryanhjohnston1204@gmail.com>
+# Contributor: Miroslav Koškár <http://mkoskar.com/>
 
 pkgname=spring-boot-cli
 pkgver=3.1.0
